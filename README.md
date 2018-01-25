@@ -1,8 +1,10 @@
 ### How to setup your Azure Notebooks
 
-Go to [https://notebooks.azure.com](https://notebooks.azure.com) and create your **free** account. If you have a Skype or Outlook account things might be even easier. Once you create your account, you'll see your profile, similar as the one shown in the image below. Navigate to your "Libraries" by clicking the highlighted link:
+Go to [https://notebooks.azure.com](https://notebooks.azure.com) and create your **free** account. If you have a Skype or Outlook account things might be even easier.
 
-![screen shot 2018-01-25 at 18 48 41](https://user-images.githubusercontent.com/872296/35414152-7303af48-0200-11e8-9246-a081e6c9caa6.png)
+Once you create your account, you'll see your profile, similar as the one shown in the image below. Navigate to your "Libraries" by clicking any of the highlighted links:
+
+![screen shot 2018-01-25 at 18 48 41](https://user-images.githubusercontent.com/872296/35414371-0c0ff7aa-0201-11e8-8b08-47a540a3b75c.png)
 
 Within your "Libraries" view, click on New Library:
 
