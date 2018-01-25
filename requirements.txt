@@ -1,0 +1,4 @@
+pandas==0.22.0
+jupyter==1.0.0
+matplotlib==2.1.2
+
