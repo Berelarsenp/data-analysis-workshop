@@ -15,3 +15,7 @@ First choose names **(DO NOT click "Create" yet)**:
 Then click on the tab **From Github**, enter the following value for the field **_"Github Repository"_**: `rmotr/data-analysis-workshop`, and click on **"Import"**:
 
 ![screen shot 2018-01-25 at 18 46 06](https://user-images.githubusercontent.com/872296/35414107-45692806-0200-11e8-98bd-979a8fafe635.png)
+
+Now you'll see the library imported and you can start exploring the notebooks **(YEY! 🎉)**:
+
+![screen shot 2018-01-25 at 18 51 49](https://user-images.githubusercontent.com/872296/35414301-d4a89024-0200-11e8-82aa-80f81fc8cbd2.png)
